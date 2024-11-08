@@ -1,0 +1,30 @@
+﻿<Window x:Class="RecordBook.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecordBook"
+        xmlns:vm="clr-namespace:RecordBook.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1000"
+        Name="mainWindow">
+
+    <Window.DataContext>
+        <vm:MainWindowViewModel/>
+    </Window.DataContext>
+    
+    <Grid Background="#F5F5F5">
+        <Grid Background="White" Grid.Row="1" Margin="25,40,25,15">
+            <TextBox Name="FilterTextBox" TextChanged="FilterTextBox_TextChanged" Height="30" Width="200" Margin="25" VerticalAlignment="Top"  HorizontalAlignment="left" BorderThickness="1" BorderBrush="#E0E0E0" />
+            <Button Command="{Binding ShowWindowCommand}" CommandParameter="{x:Reference mainWindow}" Height="30" Content="Add User" Width="100" VerticalContentAlignment="Center" Padding="5" Margin="25" VerticalAlignment="Top" HorizontalAlignment="Right" BorderThickness="1" BorderBrush="#E0E0E0"  />
+            <ListView ItemsSource="{Binding Users}" Name="UserList" BorderBrush="AliceBlue" Margin="25,70,25,25" Padding="0">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn DisplayMemberBinding="{Binding Name}" Header="Name"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding Email}" Header="Email"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>

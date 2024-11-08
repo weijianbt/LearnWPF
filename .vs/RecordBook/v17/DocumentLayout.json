@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|c:\\users\\twjbr\\source\\repos\\recordbook\\viewmodels\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|solutionrelative:viewmodels\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|c:\\users\\twjbr\\source\\repos\\recordbook\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|c:\\users\\twjbr\\source\\repos\\recordbook\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|c:\\users\\twjbr\\source\\repos\\recordbook\\views\\adduserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|solutionrelative:views\\adduserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|c:\\users\\twjbr\\source\\repos\\recordbook\\models\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|solutionrelative:models\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|c:\\users\\twjbr\\source\\repos\\recordbook\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|c:\\users\\twjbr\\source\\repos\\recordbook\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|c:\\users\\twjbr\\source\\repos\\recordbook\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E9057D-0748-48C6-A1DB-815A85E08D7A}|RecordBook.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\ViewModels\\AddUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddUserViewModel.cs",
+              "ToolTip": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\ViewModels\\AddUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddUserViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:59:51.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:40:29.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:32:45.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUserView.xaml",
+              "DocumentMoniker": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Views\\AddUserView.xaml",
+              "RelativeDocumentMoniker": "Views\\AddUserView.xaml",
+              "ToolTip": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Views\\AddUserView.xaml",
+              "RelativeToolTip": "Views\\AddUserView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T13:30:07.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Models\\UserManager.cs",
+              "RelativeDocumentMoniker": "Models\\UserManager.cs",
+              "ToolTip": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Models\\UserManager.cs",
+              "RelativeToolTip": "Models\\UserManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:26:27.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:24:52.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T13:21:38.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\twjbr\\source\\repos\\RecordBook\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:13:33.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
